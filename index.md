@@ -8,19 +8,13 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "Dr. David Florian is an engineer with a passion for teaching and the open-source community. His area of expertise is 3D printing, with an emphasis on large format pellet extrusion and selective laser sintering."
+excerpt: "Samir, a junior in mechanical engineering, is focused on designing precise and functional mechanical systems, with a particular interest in digital fabrication. His goal is to develop reliable, efficient, and user-friendly devices, contributing to advancements in technologies."
 feature_row:
-  - image_path: assets/img/CNC-Mill-Thumbnail.jpg
-    alt: "CNC Mill"
-    title: "Custom CNC Milling Machine"
-    excerpt: "Built for fabricating aluminum and steel parts."
-  - image_path: assets/img/Plasma-Cutter-Banner.jpg
-    alt: "placeholder image 2"
-    title: "DIY Plasma Cutter"
-    excerpt: "A hot plasma stream slices through sheet metal."
-  - image_path: assets/img/Zidex-Thumbnail.jpg
-    title: "Bespoke IDEX 3D Printer"
-    excerpt: "Multimaterial printing. "
+  - image_path: assets/img/SyringePumpCAD.png
+    alt: "Syringe Pump"
+    title: "Syringe Pump"
+    excerpt: "To deliver a set fluid rate"
+
 ---
 
 {% include feature_row %}
