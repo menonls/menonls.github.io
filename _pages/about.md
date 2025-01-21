@@ -6,7 +6,7 @@ title: "About Samir Menon"
 
 ## Education
 
-David prides himself on his diverse skill set. His most prominent fields of expertise are additive manufacturing (i.e., 3D printing) and biotechnology. 
+Samir is pursuing a degree in Mechanical Engineering with a focus on Digital Fabrication. 
 
 * Vanderbilt University
   * BS Mechanical Engineering
@@ -15,7 +15,7 @@ David prides himself on his diverse skill set. His most prominent fields of expe
 
 ## Technical Skills
 
-David can operate a number of different computer controlled (CNC) fabrication tools to turn 3D models into real-life parts. David has experience with the following additive manufacturing technologies:
+Samir is skilled in several CAD softwares, and has experience in taking into account real world considerations during the design process.
 
 * SolidWorks, Fusion360
 * ANSYS Static Structural Simulation
