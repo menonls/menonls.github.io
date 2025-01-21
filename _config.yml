@@ -14,7 +14,7 @@ locale                   : "en-US"
 title                    : "Leandro Samir Menon"
 title_separator          : "-"
 subtitle                 : "Example Website for Class"
-name                     : &name "David Florian" # &name is a YAML anchor which can be *referenced later
+name                     : &name "Leandro Samir Menon" # &name is a YAML anchor which can be *referenced later
 description              : &description "Example website for class "
 url                      : https://davidflorianjr.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
