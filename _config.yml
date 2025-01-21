@@ -15,7 +15,7 @@ title                    : "Leandro Samir Menon"
 title_separator          : "-"
 subtitle                 : "Mechanical Engineering Junior"
 name                     : &name "Leandro Samir Menon" # &name is a YAML anchor which can be *referenced later
-description              : &description "Example website for class "
+description              : &description "Engineering Portfolio"
 url                      : https://davidflorianjr.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : 
@@ -98,7 +98,7 @@ analytics:
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "assets/img/SamirPfp.png"
-  bio              : "An engineer with a passion for teaching "
+  bio              : "A mechanical engineering student looking for a summer 2025 internship"
   location         : "Nashville, TN"
   links:
     - label: "GitHub"
