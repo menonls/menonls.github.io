@@ -6,7 +6,7 @@ title: "About Samir Menon"
 
 ## Education
 
-Samir is pursuing a degree in Mechanical Engineering with a focus on Digital Fabrication. 
+Samir is pursuing a degree in Mechanical Engineering with an interest in Digital Fabrication methods. 
 
 * Vanderbilt University
   * BS Mechanical Engineering
