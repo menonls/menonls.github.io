@@ -12,16 +12,22 @@ gallery:
 ---
 # Features
 
-*The syringe pump delivers precise and smooth flow rates, essential for medical and laboratory applications. Key features include:
+The syringe pump delivers precise and smooth flow rates, essential for medical and laboratory applications. Key features include:
 * Compatibility with 10 mL and 20 mL syringes without special tools.
 * Motor-driven lead screw mechanism for fluid dispensing.
 * Safety mechanisms like an end-of-stroke switch to prevent over-extension.
 * Protected electronic components for durability and safety.
 
 
-* **Massive Print Area: 1140 x 1200 x 1100 mm.** With a build envelop just shy of 4 feet in all dimensions, the LF3DP is capable of printing furniture and other large objects.
-* **High Volumetric Output Extruder: 1 kg/hr - 450 C.** This printer come standard with a MDPH2 extruder by Massive Dimension, which can extrude at a rate of 1 kg/hr. Unlike typical filament extruders, the MDPH2 uses a screw to convey and liquify plastic pellets before the molten material is pushed out of a large nozzle (1 to 5 mm extrusion diameter). Please note: This printer can also be configured for other high flow rate extruders, such as the Typhoon and Pulsar by Dyze Design.
-* **Affordable Pellet Feedstock** Pellets are the cheapest form of feedstock for any plastic-based manufacturing process. Save 50-75% of material costs by using pellets instead of spools of filament. Concentrated colorant can be added to the virgin material to achieve any color in the rainbow without requiring large amounts of storage. Recyled material can also be used for sustainable material printing.
+#Operating Instructions
+
+* Fit filled syringes into the appropriate slots.
+* Connect the Arduino board to a laptop and upload the AccelStepper code.
+* Disconnect the Arduino from the laptop and connect it to the power supply.
+* Plug the power supply into an outlet (yellow LED indicates idle state).
+* Press the ON button to start the motor (green LED will light up).
+* The motor will push the syringe plunger until it hits the OFF switch.
+* Once the switch is triggered, the red LED lights up, and the motor stops.
 
 # CAD Model
 <iframe src="https://myhub.autodesk360.com/ue2df0af5/shares/public/SH35dfcQT936092f0e437224cd558fdcdc2f?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
