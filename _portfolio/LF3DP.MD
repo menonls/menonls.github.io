@@ -13,7 +13,7 @@ gallery:
 # Features
 
 *The syringe pump delivers precise and smooth flow rates, essential for medical and laboratory applications. Key features include:
-**Compatibility with 10 mL and 20 mL syringes without special tools.
+* **Compatibility with 10 mL and 20 mL syringes without special tools.
 **Motor-driven lead screw mechanism for fluid dispensing.
 **Safety mechanisms like an end-of-stroke switch to prevent over-extension.
 **Protected electronic components for durability and safety.
