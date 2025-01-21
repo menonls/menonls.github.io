@@ -13,7 +13,7 @@ feature_row:
   - image_path: assets/img/SyringePumpCAD.png
     alt: "Syringe Pump"
     title: "Syringe Pump"
-    excerpt: "To deliver a set fluid rate"
+    excerpt: "Used to deliver a set fluid rate"
 
 ---
 
