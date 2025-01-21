@@ -22,6 +22,7 @@ Samir is skilled in several CAD softwares, and has experience in taking into acc
 * Matlab, Java
 * Band Saw, Lathe, Mill
 
-
-
+## Work Experience
+* Mechanical Engineering Intern, developed 3D models, detailed drawings, and prototypes for oil well fishing operations, collaborating closely with engineers to refine designs.
+* Americorps Tutor,  worked as an AmeriCorps mentor and tutor, supporting academic success in math and English for students in grades 3–12.
 <img src="/assets/img/SamirPfp.png" alt="Samir Menon" style="width:200px;"/>
