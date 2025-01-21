@@ -26,4 +26,4 @@ David can operate a number of different computer controlled (CNC) fabrication to
 
 
 
-<img src="/assets/img/SamirPfp.jpg" alt="Samir Menon" style="width:200px;"/>
+<img src="/assets/img/SamirPfp.png" alt="Samir Menon" style="width:200px;"/>
