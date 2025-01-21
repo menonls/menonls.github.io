@@ -18,8 +18,8 @@ The syringe pump delivers precise and smooth flow rates, essential for medical a
 * Safety mechanisms like an end-of-stroke switch to prevent over-extension.
 * Protected electronic components for durability and safety.
 
-
-#Operating Instructions
+---
+# Operating Instructions
 
 * Fit filled syringes into the appropriate slots.
 * Connect the Arduino board to a laptop and upload the AccelStepper code.
