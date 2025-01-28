@@ -1,7 +1,7 @@
 ---
 title: "About me"
 layout: splash
-header: "My website"
+header: 
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/img/Home-Banner-Image.jpeg
