@@ -4,10 +4,8 @@ excerpt: "A 1 kg/hr pellet extruder and 1 cubic meter build envelope for printin
 header:
   image: /assets/img/SyringePumpTop.png
   teaser: /assets/img/SyringePumpCAD.png
-gallery:
-  - image_path: assets/img/Slide-3.png
-  - image_path: assets/img/Slide-2.png
-  - image_path: assets/img/Slide-4.png
+
+
    
 ---
 # Features
