@@ -28,5 +28,5 @@ Samir is skilled in several CAD softwares, and has experience in taking into acc
 * Americorps Tutor,  worked as an AmeriCorps mentor and tutor, supporting academic success in math and English for students in grades 3–12.
 
 ---
-
+Samir Menon
 <img src="/assets/img/SamirPfp.png" alt="Samir Menon" style="width:200px;"/>
