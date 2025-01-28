@@ -29,6 +29,11 @@ The syringe pump delivers precise and smooth flow rates, essential for medical a
 * The motor will push the syringe plunger until it hits the OFF switch.
 * Once the switch is triggered, the red LED lights up, and the motor stops.
 
+---
+# Used Parts
+image_path: assets/img/PartTable.png
+
+
 # CAD Model
 <iframe src="https://myhub.autodesk360.com/ue2df0af5/shares/public/SH35dfcQT936092f0e437224cd558fdcdc2f?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
