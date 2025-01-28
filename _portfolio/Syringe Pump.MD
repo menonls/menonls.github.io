@@ -31,7 +31,7 @@ The syringe pump delivers precise and smooth flow rates, essential for medical a
 
 ---
 # Used Parts
-image_path: assets/img/PartTable.png
+<img src="/assets/img/PartTable.png" style="width:200px;"/>
 
 
 # CAD Model
