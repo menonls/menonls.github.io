@@ -12,7 +12,31 @@ header:
 Microfluidic devices are small-scale systems that manipulate fluids at the microliter or nanoliter scale, allowing precise control of fluid flow. 
 
 Pinch Flow Fractionation (PFF) is a microfluidic sorting technique that separates particles based on their size. It works by introducing two streams into a channel of minimal area, where a pinching flow constrains the particles to a narrow region. As the flow expands at a downstream sorting region, larger particles experience greater lateral displacement than smaller ones, leading to size-based separation at different outlet channels.
-   
+
+---
+# Fabrication Process
+Fabrication Process
+
+CAD Model
+
+A 3D model of the mold is designed using CAD software. The design includes features such as the pinch segment, sorting region, and outlet channels with specific dimensions to ensure proper fractionation. Two outlets were joined together to reduce the number of outlets needed, reducing the requirements of the set up.
+
+Print and Cure Mold
+
+The mold is fabricated using high-resolution resin 3D printing. Post-print curing is performed to solidify the structure and improve surface properties.
+
+Parylene Coating
+
+The printed mold is coated with a thin layer of parylene to enhance durability and prevent adhesion of PDMS during casting. Parylene also provides a smoother surface, reducing imperfections in the final device.
+
+Cast PDMS
+
+Polydimethylsiloxane (PDMS) is poured over the mold and cured at an elevated temperature. Once cured, the PDMS is carefully peeled from the mold, forming the microfluidic channel network.
+
+Plasma Bond Glass Slide
+
+The PDMS device is plasma-treated and bonded to a glass slide to create enclosed microfluidic channels. This bonding ensures a leak-proof system suitable for fluidic experiments.
+
 ---
 # Features
 
