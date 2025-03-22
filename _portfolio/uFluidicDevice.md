@@ -37,13 +37,11 @@ Plasma Bond Glass Slide
 The PDMS device is  bonded to a glass slide to create enclosed microfluidic channels. This bonding ensures a leak-proof system suitable for fluidic experiments.
 
 ---
-# Features
+# Discussion
 
-The syringe pump delivers precise and smooth flow rates, essential for medical and laboratory applications. Key features include:
-* Compatibility with 10 mL and 20 mL syringes without special tools.
-* Motor-driven lead screw mechanism for fluid dispensing.
-* Safety mechanisms like an end-of-stroke switch to prevent over-extension.
-* Protected electronic components for durability and safety.
+Resin-printed molds are coated with parylene to prevent adhesion of PDMS, enabling easy demolding and preserving the mold for repeated use. Additionally, the smooth coating enhances microchannel accuracy and reduces defects that could impact fluid flow. The design of the device plays a crucial role in sorting efficiency. The pinch width precisely controls the initial particle alignment, while the outlet width is optimized to guide particles into distinct channels. The port locations are strategically positioned to maintain laminar flow and minimize turbulence, ensuring that particle separation is accurate and efficient. To maintain uniform flow distribution among the outlets, the channel geometry was designed with symmetrical features, and flow resistance was carefully balanced across pathways. Computational simulations were used to validate streamline uniformity, helping to prevent flow disruptions that could affect sorting performance.
+
+Based on testing results, potential improvements to the design could involve refining the positioning of the outlets to further enhance particle separation efficiency. Implementing hydrodynamic focusing may also optimize sorting precision by ensuring particles are more tightly constrained before entering the expansion region.
 
 ---
 # Operating Instructions
