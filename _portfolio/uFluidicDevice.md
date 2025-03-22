@@ -47,7 +47,7 @@ The test results provided no accurate assessment of the viability of the design.
 
 ---
 # Pictures
-<img src=/assets/img/uFluidicMoldandCast.png >
+<img src=/"IMG_0497.png" >
 
 
 # CAD Model
