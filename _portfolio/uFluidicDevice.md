@@ -4,6 +4,8 @@ excerpt: "A micro-fluidic device that sorts pellets using pinch flow seperation"
 header:
   image: /assets/img/SyringePumpTop.png
   teaser: /assets/img/SyringePumpCAD.png
+  
+---
 
 # Introduction
 
