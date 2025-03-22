@@ -1,11 +1,15 @@
 ---
-title: "Syringe Pump"
-excerpt: "A 1 kg/hr pellet extruder and 1 cubic meter build envelope for printing furniture."
+title: "uFluidic Device"
+excerpt: "A micro-fluidic device that sorts pellets using pinch flow seperation"
 header:
   image: /assets/img/SyringePumpTop.png
   teaser: /assets/img/SyringePumpCAD.png
 
+# Introduction
 
+Microfluidic devices are small-scale systems that manipulate fluids at the microliter or nanoliter scale, allowing precise control of fluid flow. 
+
+Pinch Flow Fractionation (PFF) is a microfluidic sorting technique that separates particles based on their size. It works by introducing two streams into a channel of minimal area, where a pinching flow constrains the particles to a narrow region. As the flow expands at a downstream sorting region, larger particles experience greater lateral displacement than smaller ones, leading to size-based separation at different outlet channels.
    
 ---
 # Features
