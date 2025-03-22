@@ -44,19 +44,10 @@ Resin-printed molds are coated with parylene to prevent adhesion of PDMS, enabli
 Based on testing results, potential improvements to the design could involve refining the positioning of the outlets to further enhance particle separation efficiency. Implementing hydrodynamic focusing may also optimize sorting precision by ensuring particles are more tightly constrained before entering the expansion region.
 
 ---
-# Operating Instructions
-
-* Fit filled syringes into the appropriate slots.
-* Connect the Arduino board to a laptop and upload the AccelStepper code.
-* Disconnect the Arduino from the laptop and connect it to the power supply.
-* Plug the power supply into an outlet (yellow LED indicates idle state).
-* Press the ON button to start the motor (green LED will light up).
-* The motor will push the syringe plunger until it hits the OFF switch.
-* Once the switch is triggered, the red LED lights up, and the motor stops.
 
 ---
-# Used Parts
-<img src="/assets/img/PartTable.png" >
+# Pictures
+<img src="/assets/img/uFluidicMoldandCast.HEIC" >
 
 
 # CAD Model
