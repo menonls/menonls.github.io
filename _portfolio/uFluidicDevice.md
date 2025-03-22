@@ -47,7 +47,7 @@ Based on testing results, potential improvements to the design could involve ref
 
 ---
 # Pictures
-<img src="/assets/img/uFluidicMoldandCast.HEIC" >
+<img src="/assets/img/uFluidicMoldandCast.png" >
 
 
 # CAD Model
