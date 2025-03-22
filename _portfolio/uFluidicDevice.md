@@ -2,8 +2,8 @@
 title: "uFluidic Device"
 excerpt: "A micro-fluidic device that sorts pellets using pinch flow seperation"
 header:
-  image: /assets/img/SyringePumpTop.png
-  teaser: /assets/img/SyringePumpCAD.png
+  image: /assets/img/FluidicCAD.png
+  teaser: /assets/img/FluidicCAD.png
   
 ---
 
