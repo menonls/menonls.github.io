@@ -15,7 +15,6 @@ Pinch Flow Fractionation (PFF) is a microfluidic sorting technique that separate
 
 ---
 # Fabrication Process
-Fabrication Process
 
 CAD Model
 
@@ -23,7 +22,7 @@ A 3D model of the mold is designed using CAD software. The design includes featu
 
 Print and Cure Mold
 
-The mold is fabricated using high-resolution resin 3D printing. Post-print curing is performed to solidify the structure and improve surface properties.
+The mold is fabricated using high-resolution resin 3D printing. This allowed the neccesary clearances needed to achieve the fine details for the microscopic particles that would be flowing through. The smoothness of each layer also allowed the mold to produce a result that was smooth enough to be bonded to a glass slide.
 
 Parylene Coating
 
@@ -35,7 +34,7 @@ Polydimethylsiloxane (PDMS) is poured over the mold and cured at an elevated tem
 
 Plasma Bond Glass Slide
 
-The PDMS device is plasma-treated and bonded to a glass slide to create enclosed microfluidic channels. This bonding ensures a leak-proof system suitable for fluidic experiments.
+The PDMS device is  bonded to a glass slide to create enclosed microfluidic channels. This bonding ensures a leak-proof system suitable for fluidic experiments.
 
 ---
 # Features
