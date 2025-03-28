@@ -1,6 +1,6 @@
 ---
-title: "Syringe Pump"
-excerpt: "A 1 kg/hr pellet extruder and 1 cubic meter build envelope for printing furniture."
+title: "Multi-Material Pliers"
+excerpt: "Multi Material Pliers made from PLA and TPU-90, easy assembly"
 header:
   image: /assets/img/SyringePumpTop.png
   teaser: /assets/img/SyringePumpCAD.png
