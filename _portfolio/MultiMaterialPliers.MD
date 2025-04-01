@@ -6,7 +6,9 @@ header:
   teaser: /assets/img/MultimaterialPliers.png
 
 
+
 ---
+
 # Background on Multimaterial Printing
 
 
