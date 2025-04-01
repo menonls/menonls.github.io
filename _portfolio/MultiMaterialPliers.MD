@@ -9,6 +9,7 @@ header:
 ---
 # Background on Multimaterial Printing
 
+
 Multimaterial printing is an advanced 3D printing technique that uses multiple materials in a singular print, unlike traditional 3D printing which maintains a constant singular material throughout. One of the primary advantages of this technology, is its ability to integrate these seperate materials seamlessly without the need for additional screws, heat inserts, or bolts. Multimaterial printing joins these parts together as they are being constructed layer by layer, enhancing functionality and saving space within the design itself.
 
 This technology has greatly expanded the capabilities of print in place design - where the product is fully constructed and assembled on the print bed itself. Traditional mechanical components often required some assembly of ridged and elastic parts before being complete; however, with Print in place, these elements can be integrated on the print bed itself, allowing for structures that could normally be impossible to produce, such as interlocking circles.
