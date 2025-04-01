@@ -2,8 +2,8 @@
 title: "Multi-Material Pliers"
 excerpt: "Multi Material Pliers made from PLA and TPU-90, easy assembly"
 header:
-  image: /assets/img/MultiMaterialPliers.png
-  teaser: /assets/img/MultiMaterialPliers.png
+  image: /assets/img/MultimaterialPliers.png
+  teaser: /assets/img/MultimaterialPliers.png
 
 
    
