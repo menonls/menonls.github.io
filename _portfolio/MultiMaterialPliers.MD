@@ -16,6 +16,8 @@ To a achieve a well-fitting TPU-PLA interface, the tolerances between the sperat
 
 To save material and time, only the outside border of the PLA handle and snout was printed. This in turn allowed the PLA to to bend as more force was applied on the handle, allowing the a greater area along the snout to touch together, rather than just the tip.
 
+The TPU square went through a couple iterations. Originally, the center was cordoned off into squares in line with the outer square; however, this caused the deformation to not be in line with its diagonal, which is what was required to allow for the clamping mechanism to properly function. This was fixed by rotating the inner mesh by 45 degrees, allowing for a diagonal deformation.
+
 ---
 # Operating Instructions
 
