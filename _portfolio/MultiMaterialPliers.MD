@@ -30,7 +30,7 @@ The TPU square went through a couple iterations. Originally, the center was cord
 
 <img src="/assets/img/MultimaterialDrawing.png" >
 
-The inner square is 50 mm x 50 mm, with the surrounding trapezoids being 5 mm on the short side, 10 mm on the long side, and 5 mm wide.
+The inner square is 50 mm x 50 mm, with the surrounding trapezoids being 5 mm on the short side, 10 mm on the long side, and 5 mm wide. The TPU was printed with a grid infill, no top and bottom layers, and 4 outside layers. The PLA was printed with 7 outside layers, no infill, and not top and bottom layers.
 
 ---
 # Assembled Pliers
