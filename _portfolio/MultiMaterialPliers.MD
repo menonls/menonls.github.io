@@ -26,6 +26,13 @@ To save material and time, only the outside border of the PLA handle and snout w
 The TPU square went through a couple iterations. Originally, the center was cordoned off into squares in line with the outer square; however, this caused the deformation to not be in line with its diagonal, which is what was required to allow for the clamping mechanism to properly function. This was fixed by rotating the inner mesh by 45 degrees, allowing for a diagonal deformation.
 
 ---
+# Dimensioned part
+
+<img src="/assets/img/MultimaterialDrawing.png" >
+
+The inner square is 50 mm x 50 mm, with the surrounding trapezoids being 5 mm on the short side, 10 mm on the long side, and 5 mm wide.
+
+---
 # Assembled Pliers
 
 <img src="/assets/img/MultiMaterialGIF.gif" >
