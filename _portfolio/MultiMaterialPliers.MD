@@ -6,7 +6,10 @@ header:
   teaser: /assets/img/MultimaterialPliers.png
 
 
-   
+---
+# Background on Multimaterial Printing
+
+Multimaterial printing is an advanced 3D printing technique that uses multiple materials in a singular print, unlike traditional 3D printing which maintains a constant singular material throughout. One of the primary advantages of this technology, is its ability to integrate these seperate materials seamlessly without the need for additional screws, heat inserts, or bolts. Multimaterial printing joins these parts together as they are being constructed layer by layer, enhancing functionality and saving space within the design itself.
 ---
 # Design Process
 
@@ -24,9 +27,6 @@ The TPU square went through a couple iterations. Originally, the center was cord
 <img src="/assets/img/MultiMaterialGIF.gif" >
 
 ---
-# Used Parts
-<img src="/assets/img/PartTable.png" >
-
 
 # CAD Model
 <iframe src="https://myhub.autodesk360.com/ue2df0af5/shares/public/SH35dfcQT936092f0e437224cd558fdcdc2f?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
