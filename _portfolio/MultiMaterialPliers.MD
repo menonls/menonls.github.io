@@ -19,15 +19,9 @@ To save material and time, only the outside border of the PLA handle and snout w
 The TPU square went through a couple iterations. Originally, the center was cordoned off into squares in line with the outer square; however, this caused the deformation to not be in line with its diagonal, which is what was required to allow for the clamping mechanism to properly function. This was fixed by rotating the inner mesh by 45 degrees, allowing for a diagonal deformation.
 
 ---
-# Operating Instructions
+# Assembled Pliers
 
-* Fit filled syringes into the appropriate slots.
-* Connect the Arduino board to a laptop and upload the AccelStepper code.
-* Disconnect the Arduino from the laptop and connect it to the power supply.
-* Plug the power supply into an outlet (yellow LED indicates idle state).
-* Press the ON button to start the motor (green LED will light up).
-* The motor will push the syringe plunger until it hits the OFF switch.
-* Once the switch is triggered, the red LED lights up, and the motor stops.
+<img src="/assets/img/MultiMaterialGIF.gif" >
 
 ---
 # Used Parts
