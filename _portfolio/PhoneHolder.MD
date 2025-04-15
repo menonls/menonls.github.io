@@ -2,8 +2,8 @@
 title: "Phone Holder"
 excerpt: "Phone Holder made to rotate between four different positions and clamp onto bike handle bars."
 header:
-  image: /assets/img/MultimaterialPliers.png
-  teaser: /assets/img/MultimaterialPliers.png
+  image: /assets/img/PhoneHolderCAD.png
+  teaser: /assets/img/PhoneHolderCAD.png
 
 ---
 
