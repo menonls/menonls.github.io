@@ -10,7 +10,7 @@ header:
 # Background on Top Down Modeling
 
 ---
-Top-down modeling is a CAD design strategy where a single master part or assembly drives the entire design process. Rather than design each part individually in their isolated workspace like in Bottom-Up Modeling, Top Down Modeling introduces each part to the others on creation, allowing for mates and constraints to be integrated with ease. 
+Top-down modeling is a CAD design strategy where a single master part or assembly drives the entire design process. Rather than design each part individually in their isolated workspace like in Bottom-Up Modeling, Top Down Modeling introduces each part to the others on creation, allowing for mates and constraints to be integrated with ease. Since dimensions are shared by multiple components, this method of modeling allows for updated dimensions to iterate throughout the entire design, leading to an easier implementation of changes.
 
 ---
 # Design Process
