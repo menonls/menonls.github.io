@@ -1,6 +1,6 @@
 ---
-title: "Multi-Material Pliers"
-excerpt: "Multi Material Pliers made from PLA and TPU-90, easy assembly"
+title: "Phone Holder"
+excerpt: "Phone Holder made to rotate between four different positions and clamp onto bike handle bars."
 header:
   image: /assets/img/MultimaterialPliers.png
   teaser: /assets/img/MultimaterialPliers.png
