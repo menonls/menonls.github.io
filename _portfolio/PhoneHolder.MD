@@ -7,12 +7,10 @@ header:
 
 ---
 
-# Background on Multimaterial Printing
+# Background on Top Down Modeling
 
 ---
-Multimaterial printing is an advanced 3D printing technique that uses multiple materials in a singular print, unlike traditional 3D printing which maintains a constant singular material throughout. One of the primary advantages of this technology, is its ability to integrate these seperate materials seamlessly without the need for additional screws, heat inserts, or bolts. Multimaterial printing joins these parts together as they are being constructed layer by layer, enhancing functionality and saving space within the design itself.
-
-This technology has greatly expanded the capabilities of print in place design - where the product is fully constructed and assembled on the print bed itself. Traditional mechanical components often required some assembly of ridged and elastic parts before being complete; however, with Print in place, these elements can be integrated on the print bed itself, allowing for structures that could normally be impossible to produce, such as interlocking circles. Common materials used in print in place applications are ridged materials like PLA and PETG, along with flexible materials like TPU. Applications of this prosthetic components that require both a ridged and flexible segment, pliers and wrenches that are integrated with hinges for immediate use, and toys/games that require interlocked components.
+Top-down modeling is a CAD design strategy where a single master part or assembly drives the entire design process. Rather than design each part individually in their isolated workspace like in Bottom-Up Modeling, Top Down Modeling introduces each part to the others on creation, allowing for mates and constraints to be integrated with ease. 
 
 ---
 # Design Process
