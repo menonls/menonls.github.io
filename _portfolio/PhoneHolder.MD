@@ -15,13 +15,13 @@ Top-down modeling is a CAD design strategy where a single master part or assembl
 ---
 # Design Process
 
-The multimaterial pliers used TPU-90 as the central component with PLA for the snout and handles. By squeezing the handles, the central TPU square is elongated, causing the snout on the opposite side to pinch together. The hollowness of the snout allows for some bending to exist in the part, allowing the pliers to deform slightly to achieve a better grip along a greater area than what would be found in a filled in segment.
+The design process began with the bottom clamp that attaches to the Bike Handle. This was selected due to it being the part that is fixed in the model. While other pieces rotate, the bottom clamp will be fixed. To achieve the appropriate friction fit between the clamp and bike, the clamp does not form a complete circle, thus allowing screws to compress the top and bottom to the handlebar.
 
-To a achieve a well-fitting TPU-PLA interface, the tolerances between the sperate components had to be tested. The first iteration had a gap of 0.5 mm in between the TPU-PLA ridges. While this slid in quite easily, it did not provide enough friction to keep the handles from slipping out of the TPU square. The second iteration was printed with no tolerance between parts. This was much better than the first iteration. Due to TPU's natural elasticity, The material deformed to fit and provided much more friction than the original.
+The next piece to be modeled was the rotating capsule. This was split into two different components for timeline simplicity. The locking mechanism was implemented in this step. Space had to be made for a spring and ball bearing, which would compress into divets made in the rotating piece. To do this, an extrusion was made off to one side of the circular base. This hollow segment would house the spring such that it was only slightly compressed.
 
-To save material and time, only the outside border of the PLA handle and snout was printed. This in turn allowed the PLA to to bend as more force was applied on the handle, allowing the a greater area along the snout to touch together, rather than just the tip.
+The rotating piece was designed as a simple circle with four shallow divots. This allows for it to rotate between these four positions. However, to attach to the phone holder, this piece needed a smaller extrusion on top with four heat inserts. This also allowed for a lid for the rotating capsule to be constructed so as to attach the rotating piece and phone holder to the capsule and handlebar clamp.
 
-The TPU square went through a couple iterations. Originally, the center was cordoned off into squares in line with the outer square; however, this caused the deformation to not be in line with its diagonal, which is what was required to allow for the clamping mechanism to properly function. This was fixed by rotating the inner mesh by 45 degrees, allowing for a diagonal deformation.
+The phone holder was designed to be flexible, allowing for a phone to be easily slid into, and out of the holder.
 
 ---
 # Dimensioned part
