@@ -32,9 +32,10 @@ On the eight holes on the Handlebar Clamp, M3 heat inserts must be set. Four M3 
 
 
 ---
-# Assembled Pliers
+# Phone Holder
 
-<img src="/assets/img/MultiMaterialGIF.gif" >
+<img src="/assets/img/PhoneHolderSide" >
+<img src="/assets/img/PhoneHolderTop" >
 
 ---
 
