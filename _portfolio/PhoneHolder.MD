@@ -23,6 +23,8 @@ The rotating piece was designed as a simple circle with four shallow divots. Thi
 
 The phone holder was designed to be flexible, allowing for a phone to be easily slid into, and out of the holder.
 
+The design material differed from part to part. TPU was the choice for the phone holder itself, This allows it to bend to allow the phone to be easily removed and put on, while still having enough rigidity to keep the phone stable. Furthermore, in case of blunt impacts, TPU provides excellent protection by absorbing most of the shock. The rest of the parts were printed with PLA. These parts needed to be rigid to provid the necessary structural integrity needed to maintain the structure and locking mechanism. The clamp, while in this case printed in PLA, can be printed with either, as some elastic deformation is needed to provide enough friction on the handlebars.
+
 ---
 # Dimensioned part
 
