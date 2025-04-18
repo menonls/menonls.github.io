@@ -26,11 +26,10 @@ The phone holder was designed to be flexible, allowing for a phone to be easily 
 The design material differed from part to part. TPU was the choice for the phone holder itself, This allows it to bend to allow the phone to be easily removed and put on, while still having enough rigidity to keep the phone stable. Furthermore, in case of blunt impacts, TPU provides excellent protection by absorbing most of the shock. The rest of the parts were printed with PLA. These parts needed to be rigid to provid the necessary structural integrity needed to maintain the structure and locking mechanism. The clamp, while in this case printed in PLA, can be printed with either, as some elastic deformation is needed to provide enough friction on the handlebars.
 
 ---
-# Dimensioned part
+# Assembly Instructions
 
-<img src="/assets/img/MultimaterialDrawing.png" >
+On the eight holes on the Handlebar Clamp, M3 heat inserts must be set. Four M3 heat inserts must also be set in the Rotating Base component in each of the outer holes. On the Rotating Piece, four M3 heat inserts must be placed as well. Once this is done, use M3 screws to join the Rotating Base with the Handlebar clamp, then a spring and ball bearing of size no larger than 6 mm must be inlayed in the Rotating Base along with the Rotating Piece before the Rotating Lid is layed on top and screwed down using the heat inserts. The Phone Holder must then be aligned and screwed down to the rotating peice, joining the entire assembly together.
 
-The inner square is 50 mm x 50 mm, with the surrounding trapezoids being 5 mm on the short side, 10 mm on the long side, and 5 mm wide. The TPU was printed with a grid infill, no top and bottom layers, and 4 outside layers. The PLA was printed with 7 outside layers, no infill, and not top and bottom layers.
 
 ---
 # Assembled Pliers
