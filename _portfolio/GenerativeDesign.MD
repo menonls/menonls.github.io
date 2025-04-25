@@ -7,7 +7,7 @@ header:
 
 ---
 
-# Background on Multimaterial Printing
+# Background on Generative Design
 
 ---
 Multimaterial printing is an advanced 3D printing technique that uses multiple materials in a singular print, unlike traditional 3D printing which maintains a constant singular material throughout. One of the primary advantages of this technology, is its ability to integrate these seperate materials seamlessly without the need for additional screws, heat inserts, or bolts. Multimaterial printing joins these parts together as they are being constructed layer by layer, enhancing functionality and saving space within the design itself.
@@ -28,8 +28,8 @@ The TPU square went through a couple iterations. Originally, the center was cord
 ---
 # Dimensioned part
 
-<img src="/assets/img/MultimaterialDrawing.png" >
-
+<img src="/assets/img/RoboticFingerDrawing.png" >
+<img src="/assets/img/RoboticPalmDrawing.png" >
 The inner square is 50 mm x 50 mm, with the surrounding trapezoids being 5 mm on the short side, 10 mm on the long side, and 5 mm wide. The TPU was printed with a grid infill, no top and bottom layers, and 4 outside layers. The PLA was printed with 7 outside layers, no infill, and not top and bottom layers.
 
 ---
