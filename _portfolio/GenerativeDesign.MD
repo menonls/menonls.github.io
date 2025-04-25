@@ -26,12 +26,15 @@ o	Reasoning: During grasping motion, this movement is minimized as the human han
 o	Reasoning: This approach eliminates the need for actuators to return their finger to their default state, thus cutting cost and weight.
 o	Implementation: Elastic bands were fastened around M2 Screws set in heat inserts on the back of the finger. This method was the least invasive and easiest to tension properly and repair. Tension and torsional springs were considered, however, ultimately discarded due to unknown spring constants and forces needed.
 
+Palm Design
+A palm was designed on Fusion360 using the generative design tool (as seen in Figure 3) to approximate the best stiffness to mass design, while still allowing for the part to be Filament or SLS printed. All motors needed to control the model are housed within, eliminating the need for separate housing. Though the thumb was not designed and presented due to Arduino input/output pin constraints, this version of the palm was made to allow for a saddle joint to easily be built in place to allow for both adduction/abduction and flexion/extension of the thumb.
+
 ---
 # Dimensioned part
 
 <img src="/assets/img/RoboticFingerDrawing.png" >
 <img src="/assets/img/RoboticPalmDrawing.png" >
-The inner square is 50 mm x 50 mm, with the surrounding trapezoids being 5 mm on the short side, 10 mm on the long side, and 5 mm wide. The TPU was printed with a grid infill, no top and bottom layers, and 4 outside layers. The PLA was printed with 7 outside layers, no infill, and not top and bottom layers.
+
 
 ---
 # Assembled Pliers
