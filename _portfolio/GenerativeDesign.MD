@@ -7,23 +7,24 @@ header:
 
 ---
 
-# Background on Generative Design
+# Project Description
 
 ---
-Multimaterial printing is an advanced 3D printing technique that uses multiple materials in a singular print, unlike traditional 3D printing which maintains a constant singular material throughout. One of the primary advantages of this technology, is its ability to integrate these seperate materials seamlessly without the need for additional screws, heat inserts, or bolts. Multimaterial printing joins these parts together as they are being constructed layer by layer, enhancing functionality and saving space within the design itself.
-
-This technology has greatly expanded the capabilities of print in place design - where the product is fully constructed and assembled on the print bed itself. Traditional mechanical components often required some assembly of ridged and elastic parts before being complete; however, with Print in place, these elements can be integrated on the print bed itself, allowing for structures that could normally be impossible to produce, such as interlocking circles. Common materials used in print in place applications are ridged materials like PLA and PETG, along with flexible materials like TPU. Applications of this prosthetic components that require both a ridged and flexible segment, pliers and wrenches that are integrated with hinges for immediate use, and toys/games that require interlocked components.
+This project features a PLA 3D-printed robotic hand designed for two degrees of freedom on each finger (2-DoF), enabling both flexion/extension at the knuckle and interphalangeal joints. The model uses a tendon driven motion control, where tendons (Fishing line) attach both the distal and proximal phalanx to embedded servos to replicate finger movement.
+The model can be remotely operated using a control glove, which tracks finger positions using a 3D-printed PLA linkage with two potentiometers per finger. This setup allows for separate, independent control of each finger on the sagittal plane.
 
 ---
 # Design Process
 
-The multimaterial pliers used TPU-90 as the central component with PLA for the snout and handles. By squeezing the handles, the central TPU square is elongated, causing the snout on the opposite side to pinch together. The hollowness of the snout allows for some bending to exist in the part, allowing the pliers to deform slightly to achieve a better grip along a greater area than what would be found in a filled in segment.
-
-To a achieve a well-fitting TPU-PLA interface, the tolerances between the sperate components had to be tested. The first iteration had a gap of 0.5 mm in between the TPU-PLA ridges. While this slid in quite easily, it did not provide enough friction to keep the handles from slipping out of the TPU square. The second iteration was printed with no tolerance between parts. This was much better than the first iteration. Due to TPU's natural elasticity, The material deformed to fit and provided much more friction than the original.
-
-To save material and time, only the outside border of the PLA handle and snout was printed. This in turn allowed the PLA to to bend as more force was applied on the handle, allowing the a greater area along the snout to touch together, rather than just the tip.
-
-The TPU square went through a couple iterations. Originally, the center was cordoned off into squares in line with the outer square; however, this caused the deformation to not be in line with its diagonal, which is what was required to allow for the clamping mechanism to properly function. This was fixed by rotating the inner mesh by 45 degrees, allowing for a diagonal deformation.
+Features and Simplifications
+•	Flexion/Extension at the PIP and DIP joint were connected by a crossed belt drive. 
+o	Reasoning: In the human hand, these joints naturally move synchronously during grasping, so coupling them mechanically still allows for realistic, functional motion.
+o	Implementation: A crossed belt drive ensures proportional movement between the two joints with only one input. This method also allows for the use of bearings, creating a smooth interface between different joints.
+•	Abduction/Adduction at the MCP Joint was removed entirely.
+o	Reasoning: During grasping motion, this movement is minimized as the human hand scrunches together forcing all the fingers to be parallel with one another.
+•	Elastic elements would be used to extend all joints once flexion is relaxed.
+o	Reasoning: This approach eliminates the need for actuators to return their finger to their default state, thus cutting cost and weight.
+o	Implementation: Elastic bands were fastened around M2 Screws set in heat inserts on the back of the finger. This method was the least invasive and easiest to tension properly and repair. Tension and torsional springs were considered, however, ultimately discarded due to unknown spring constants and forces needed.
 
 ---
 # Dimensioned part
