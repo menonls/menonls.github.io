@@ -2,8 +2,8 @@
 title: "Generative Design - Robotic Palm"
 excerpt: "A palm designed for a robotic hand, houses 8 servos and allows for further thumb design."
 header:
-  image: /assets/img/RoboticPalmCAD.png
-  teaser: /assets/img/RoboticPalmCAD.png
+  image: /assets/img/GenerativePalmCAD.png
+  teaser: /assets/img/GenerativePalmCAD.png
 
 ---
 
