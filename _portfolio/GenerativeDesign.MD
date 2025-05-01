@@ -19,7 +19,7 @@ The model can be remotely operated using a control glove, which tracks finger po
 Features and Simplifications
 •	Flexion/Extension at the PIP and DIP joint were connected by a crossed belt drive. 
 o	Reasoning: In the human hand, these joints naturally move synchronously during grasping, so coupling them mechanically still allows for realistic, functional motion.
-o	Implementation: A crossed belt drive ensures proportional movement between the two joints with only one input. This method also allows for the use of bearings, creating a smooth interface between different joints.
+o	Implementation: A crossed belt drive ensures proportional movement between the two joints with only one input. This method also allows for the use of bearings, creating a smooth interface between different joints. 
 •	Abduction/Adduction at the MCP Joint was removed entirely.
 o	Reasoning: During grasping motion, this movement is minimized as the human hand scrunches together forcing all the fingers to be parallel with one another.
 •	Elastic elements would be used to extend all joints once flexion is relaxed.
@@ -34,10 +34,10 @@ A palm was designed on Fusion360 using the generative design tool (as seen in Fi
 <img src="/assets/img/RoboticFingerDrawing.png" >
 <img src="/assets/img/RoboticPalmDrawing.png" >
 
-
 ---
+# Generative Design - Preserved Geometry and Load Case
 
-
+<img src="/assets/img/PreservedGeometry.png" >
 ---
 
 # CAD Model
