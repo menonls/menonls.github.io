@@ -35,13 +35,13 @@ A palm was designed on Fusion360 using the generative design tool (as seen in Fi
 <img src="/assets/img/RoboticPalmDrawing.png" >
 
 ---
-# Generative Design - Preserved Geometry and Load Case
+# Generative Design - Geometry and Load Case
 ---
 <img src="/assets/img/PreservedGeometry.png" >
 <img src="/assets/img/ObstacleGeometry.png" >
 
-The critical preserve regions included the knuckle joins, thumb mounting platform, and the platform for the servos to be screwed to. Obsacle geometry included the areas between the finger, the spaces where the motors would reside, and above and below the palm. Both these geometries were achived using the Split and Encapsulate tools on Fusion360, which allowed the base model to be split into multiple bodies and encapsulating them in an obstacle geometry.
-
+The critical preserve regions included the knuckle joins, thumb mounting platform, and the platform for the servos to be screwed to. Obsacle geometry included the areas between the finger, the spaces where the motors would reside, and above and below the palm. Both these geometries were achived using the Split and Encapsulate tools on Fusion360, which allowed the base model to be split into multiple bodies and then encapsulating them in an obstacle geometry.
+All the loads applied were structural loads. These loads were applied to the faces where the motors would attach to, along with the faces on the knuckles and thumb mounting plate itself. Though the part will experience dynamic loading conditions, the forces are highest when the hand is grabbing onto an object, thus only static loads were used to mimic this. Structural constraints were applied to the base of the palm, the face farthest away from the knuckles. This is to allow for the generative design to model the palm completely, with no interruption from this constraint. To further test and refine this design, the completed hand can be loaded at the finger tips to simulate holding onto an object, and the forces at the knuckles can be measured or calculated to determine a more accurate load case.
 ---
 
 # CAD Model
