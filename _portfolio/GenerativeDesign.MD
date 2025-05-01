@@ -38,6 +38,8 @@ A palm was designed on Fusion360 using the generative design tool (as seen in Fi
 # Generative Design - Preserved Geometry and Load Case
 
 <img src="/assets/img/PreservedGeometry.png" >
+
+The critical preserve regions included the knuckle joins, thumb mounting platform, and the platform for the servos to be screwed to. Obsacle geometry included the areas between the finger, the spaces where the motors would reside, and above and below the palm. Both these geometries were achived using the Split and Encapsulate tools on Fusion360, which allowed the base model to be split into multiple bodies and encapsulating them in an obstacle geometry.
 ---
 
 # CAD Model
